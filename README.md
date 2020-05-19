@@ -6,6 +6,8 @@ Configure o arquivo “arquivoConfig.txt” com as palavras chaves requeridas, f
 
 Utilizo a biblioteca Twitter4J como suporte para a comunicação com a API do Twitter.
 
+This application uses the dates provider by Twitter according with the configurations in config file
+
 
 
 
